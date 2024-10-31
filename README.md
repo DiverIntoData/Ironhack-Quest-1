@@ -1,4 +1,4 @@
-# Albert_Quest1
+# Quest1
 
 Quest Game
 Overview
